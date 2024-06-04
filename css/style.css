@@ -1,0 +1,21 @@
+*,
+::after,
+::before{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+img{
+    width: 1rem;
+}
+table{
+   
+    background-color: black;
+    color:white;
+    border:2px solid white;
+    border-collapse: collapse;
+}
+td, tr{
+    border:2px solid white;
+    padding:1rem;
+}
